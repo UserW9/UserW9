@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UserW9
-- 👀 I’m interested in learning about this scosystem
+- 👀 I’m interested in learning about this ecosystem
 - 🌱 I’m currently learning about this plataform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
